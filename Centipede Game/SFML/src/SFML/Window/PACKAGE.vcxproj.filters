@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ddbra\Documents\Dylan\CodeSamples\Centipede Game\CMakeFiles\38c186c7f3183154c799ff9cd0f26599\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{42A56F77-E808-34C6-B695-606216151173}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Users/ddbra/Documents/Dylan/CodeSamples/Centipede Game/SFML/src/SFML/Window/CMakeLists.txt
+C:/Users/ddbra/Documents/Dylan/CodeSamples/Centipede Game/SFML/tools/windows/resource.rc.in
